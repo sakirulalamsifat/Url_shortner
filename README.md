@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # install the dependencies
 
 -- after downloading or cloning the file type 'npm install' in the terminal to install all the dependencies.
@@ -145,3 +146,6 @@
     }
 
 
+=======
+# Url_shortner
+>>>>>>> 4b6e87326c8dcb197c9f8ade8fa2a159d7e563af
