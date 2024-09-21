@@ -16,7 +16,7 @@ Jest: Testing framework for unit tests.
 
 🚧 Installation
 1. Clone the repository:
-git clone https://github.com/your-username/Url_shortener_service.git
+git clone https://github.com/sakirulalamsifat/Url_shortener_service.git
 cd Url_shortener_service
 
 2. Install the dependencies:
